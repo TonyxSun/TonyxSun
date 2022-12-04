@@ -1,5 +1,5 @@
 ### Hello World :wave:
-It's a pleasure to see you here! I am Tony, a third year **software engineering** student at the University of Waterloo. I am passionate about 
+It's a pleasure to see you here! I am Tony (Wuyue), a third year **software engineering** student at the University of Waterloo. I am passionate about 
 creating elegant applications with code that make a difference in the world. :city_sunset:
 
 * :chart_with_upwards_trend: I have [prior experience](https://github.com/TonyxSun/TonyxSun/blob/master/Tony_Sun_ResumeV2_4C_ext.pdf) working as a software developer, with 3 past co-ops specializing in full-stack and application development. 
