@@ -2,7 +2,7 @@
 It's a pleasure to see you here! I am Tony (Wuyue), a third year **software engineering** student at the University of Waterloo. I am passionate about 
 creating elegant applications with code that make a difference in the world. :city_sunset:
 
-* :chart_with_upwards_trend: I have [prior experience](https://github.com/TonyxSun/TonyxSun/blob/master/Tony_Sun_ResumeV2_4C_ext.pdf) working as a software developer, with 3 past co-ops specializing in full-stack and application development. 
+* :chart_with_upwards_trend: I have [prior experience](https://github.com/TonyxSun/TonyxSun/blob/master/Tony_Sun_Resume_ed.pdf) working as a software developer, with 3 past co-ops specializing in full-stack and application development. 
 * 🥼 I am currently working with Professor [Werner Dietl](https://ece.uwaterloo.ca/~wdietl/) as a research assistant on the [EISOP project](https://eisop.github.io/), a unified framework for optional properties checking in Java.
 * :space_invader: Currently, some fields that interest me are cybersecurity, IoT, and cloud computing!
 * :mailbox_with_mail: Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/tonywsun/); I would love to connect with you!!!
