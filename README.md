@@ -1,8 +1,5 @@
 ### Hello World :wave:
-It's a pleasure! I am Tony (Wuyue), currently @ xai working on compute infra. 
-
-* :chart_with_upwards_trend: I have the fortune of partaking in [a few internships](https://github.com/TonyxSun/TonyxSun/blob/master/Tony_Wuyue_Sun_Resume.pdf) prior to my current tenure, specializing in large scale infrastructure, full-stack and application development. 
-* :mailbox_with_mail: Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/tonywsun/); I would love to connect with you. Not currently open to new opportunities. 
+It's a pleasure! I am Tony (Wuyue), currently working on compute infra. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/tonywsun/); I would love to connect with you. Not currently open to new opportunities. 
 
 <!---
 TonyxSun/TonyxSun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
